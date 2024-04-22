@@ -193,8 +193,6 @@ padding-bottom: 40px;
 }
 
 .stats {
-    opacity: 0;
-    transition: opacity 2s;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -204,10 +202,6 @@ padding-bottom: 40px;
     padding: 10%;
  
    
-}
-
-.stats:hover {
-     opacity: 1;
 }
 
 .stat {

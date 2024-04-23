@@ -311,7 +311,8 @@ padding-bottom: 40px;
     justify-content: center;
     align-items: center;
     height: 80vh;
-    margin-bottom: 5%;
+    margin-bottom: 20%;
+    margin-top: 15%;
 }
 
 
@@ -359,7 +360,7 @@ footer {
     right: 0;
     margin: 1%;
     padding: 20px; 
-    background-color: #ffffff; 
+    background-color: #ffffff96; 
     color: #333; 
     border-radius: 20px;
 }
@@ -379,7 +380,7 @@ form {
     border-radius: 10px;
     transition: box-shadow 0.5s;
     width: 90%;
-    margin: 0 auto; 
+    margin: 10% ; 
 }
 
 form:hover {
